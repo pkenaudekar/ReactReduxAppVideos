@@ -20,6 +20,7 @@ class App extends React.Component {
         q: term,
         part: 'snippet',
         maxResults: 5,
+        type: 'video',
         key: KEY,
       },
     });
